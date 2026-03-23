@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--************************************************************************--> 
+<!--		  Copyright 2011 Nintendo.  All rights reserved.				--> 
+<!--																		--> 
+<!-- These coded instructions, statements, and computer programs contain	--> 
+<!-- proprietary information of Nintendo of America Inc. and/or Nintendo	--> 
+<!-- Company Ltd., and are protected by Federal copyright law.  They may	--> 
+<!-- not be disclosed to third parties or copied or duplicated in any form,	--> 
+<!-- in whole or in part, without the prior written consent of Nintendo.	--> 
+<!--																		--> 
+<!--************************************************************************--> 
+<!--																		--> 
+<!--						Gumball Error File								--> 
+<!--																		--> 
+<!--************************************************************************-->
+
+<data version="1.0" code="HCMP"> 
+  <locale>
+	<!-- Fatal Error Btn Text -->  
+	<trans_unit id="btn_fatal_error_en" type="btn">
+      <label size="">
+        <target xml:lang="en-UK"><![CDATA[Return to<br/>Wii Menu]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_fatal_error_fr" type="btn">
+      <label size="">
+        <target xml:lang="fr-FR"><![CDATA[Retour au<br/>menu Wii]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_fatal_error_es" type="btn">
+      <label size="">
+        <target xml:lang="es-ES"><![CDATA[Volver al<br/>menú de Wii]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_fatal_error_de" type="btn">
+      <label size="">
+        <target xml:lang="de-DE"><![CDATA[Zurück zum<br/>Wii-Menü]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_fatal_error_it" type="btn">
+      <label size="">
+        <target xml:lang="it-IT"><![CDATA[Torna al<br/>menu Wii]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_fatal_error_nl" type="btn">
+      <label size="">
+        <target xml:lang="nl-NL"><![CDATA[Terug naar<br/>het Wii-menu]]></target>
+	  </label>
+    </trans_unit> 	
+	
+	<!-- Non-Fatal Error Btn Text --> 
+	<trans_unit id="btn_non_fatal_error_en" type="btn">
+      <label size="">
+        <target xml:lang="en-UK"><![CDATA[Back]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_fr" type="btn">
+      <label size="">
+        <target xml:lang="fr-FR"><![CDATA[Retour]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_es" type="btn">
+      <label size="">
+        <target xml:lang="es-ES"><![CDATA[Atrás]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_de" type="btn">
+      <label size="">
+        <target xml:lang="de-DE"><![CDATA[Zurück]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_it" type="btn">
+      <label size="">
+        <target xml:lang="it-IT"><![CDATA[Indietro]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_nl" type="btn">
+      <label size="">
+        <target xml:lang="nl-NL"><![CDATA[Terug]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<!-- Non-Fatal Error Btn Text "OK" --> 
+	<trans_unit id="btn_non_fatal_error_ok_en" type="btn">
+      <label size="">
+        <target xml:lang="en-UK"><![CDATA[OK]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_ok_fr" type="btn">
+      <label size="">
+        <target xml:lang="fr-FR"><![CDATA[OK]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_ok_es" type="btn">
+      <label size="">
+        <target xml:lang="es-ES"><![CDATA[OK]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_ok_de" type="btn">
+      <label size="">
+        <target xml:lang="de-DE"><![CDATA[O.K.]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_ok_it" type="btn">
+      <label size="">
+        <target xml:lang="it-IT"><![CDATA[OK]]></target>	  
+	  </label>
+    </trans_unit> 
+	
+	<trans_unit id="btn_non_fatal_error_ok_nl" type="btn">
+      <label size="">
+        <target xml:lang="nl-NL"><![CDATA[OK]]></target>	  
+	  </label>
+    </trans_unit> 	
+	
+	<!-- Server Error Messages -->
+	<trans_unit id="server_error_en" type="dialog">
+      <message size="">
+        <target xml:lang="en-UK"><![CDATA[A server error has occurred. Please wait awhile and try again.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="server_error_fr" type="dialog">
+      <message size="">
+        <target xml:lang="fr-FR"><![CDATA[Une erreur s'est produite sur le serveur. Veuillez patienter et réessayer ultérieurement.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="server_error_es" type="dialog">
+      <message size="">
+        <target xml:lang="es-ES"><![CDATA[Se ha producido un error en el servidor. Vuelve a intentarlo más tarde.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="server_error_de" type="dialog">
+      <message size="">
+        <target xml:lang="de-DE"><![CDATA[Ein Fehler ist aufgetreten. Der Server steht vorübergehend nicht zur Verfügung. Bitte versuche es später noch einmal.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="server_error_it" type="dialog">
+      <message size="">
+        <target xml:lang="it-IT"><![CDATA[Si è verificato un errore del server. Riprova più tardi.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="server_error_nl" type="dialog">
+      <message size="">
+        <target xml:lang="nl-NL"><![CDATA[Er is een serverfout opgetreden. Probeer het later nog eens.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<!-- Nand Error Messages -->	
+	
+	<trans_unit id="nand_error_en" type="dialog">
+      <message size=""><!-- The file cannot be used because the data is corrupted. -->
+        <target xml:lang="en-UK"><![CDATA[Your save data is corrupt.<br/><br/>New save data is being created.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="nand_error_fr" type="dialog">
+      <message size="">
+        <target xml:lang="fr-FR"><![CDATA[Les données de sauvegarde de la chaîne sont corrompues.<br/><br/>De nouvelles données de sauvegarde vont être créées.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="nand_error_es" type="dialog">
+      <message size="">
+        <target xml:lang="es-ES"><![CDATA[Los datos guardados están dañados.<br/><br/>Se están generando nuevos datos guardados.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="nand_error_de" type="dialog">
+      <message size="">
+        <target xml:lang="de-DE"><![CDATA[Deine Speicherdaten sind fehlerhaft.<br/><br/>Neue Speicherdaten werden erstellt.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="nand_error_it" type="dialog">
+      <message size="">
+        <target xml:lang="it-IT"><![CDATA[I dati di salvataggio sono danneggiati.<br/><br/>Verranno creati dei nuovi dati di salvataggio.]]></target>
+      </message>
+    </trans_unit>	
+	
+	<trans_unit id="nand_error_nl" type="dialog">
+      <message size="">
+        <target xml:lang="nl-NL"><![CDATA[Je opgeslagen gegevens zijn beschadigd.<br/><br/>Er worden nieuwe opgeslagen gegevens gecreëerd.]]></target>
+      </message>
+    </trans_unit>		
+	
+  </locale>
+</data>
